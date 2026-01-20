@@ -151,7 +151,7 @@ const AddCategoryModal = (props) => {
                 rows={5}
               />
             </div>
-            {/* Image Field & function */}
+            {/* Images Field & function */}
             <div className="flex flex-col space-y-1 w-full">
               <label htmlFor="name">Category Image</label>
               <input
